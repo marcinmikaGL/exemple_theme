@@ -1,0 +1,46 @@
+/*
+Theme Name: WebLider
+Text Domain: weblider
+Version: 0.1b
+Requires at least: 4.7
+Requires PHP: 7.0.0
+Description: Projekt rekrutacyjny 
+Author: Marcin Mika
+Author URI: https://www.facebook.com/marcinmika
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+All files, unless otherwise stated, are released under the GNU General Public
+License version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+
+Temat zawiera następujące elementy
+*/
+
+/*--------------------------------------------------------------
+>>> tabela komponentów:
+----------------------------------------------------------------
+
+	0. 	style.css 
+	1. 	index.php (w tym miejscu znajduje się conent strony głównej)
+	2. 	page.php (widok poszczegołnych podstrony)
+	3. 	translate.php (zmienne słownikowe globalne nagłówki , fiszki z produktów i slider widoczne po stronie kokpitu)  
+	4. 	header.php
+	5. 	footer.php
+	6. 	comments.php
+	7.	functins.php 
+	8.	Folder css 
+		a. 	style.css (mój autorski kod css)
+		b. 	bootstramp_grid.css: (siatka bootstramp)
+	9.  	Folder gallery ( zawiarta pliki do obsługi galerii)
+	10.  	Folder Slider ( zawiera pliki potrzebne do obsługi slidera)
+
+    ___    
+  _(___)_  
+ ()'   `() 
+ .' o o `. 
+ :  _O_  : 
+ `. \_/ .' 
+  .`---'.  
+.' ()o() `.
+:   ( \   : 
+----------------------------------------------------------------------------- */
